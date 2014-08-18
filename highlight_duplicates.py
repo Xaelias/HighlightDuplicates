@@ -67,7 +67,7 @@ def show_lines(regions, view):
     view.add_regions('DuplicatesHighlightListener', \
                         all_regions, \
                         color_scope_name, \
-                        "Packages/Theme - Default/dot.png", \
+                        "dot",
                         sublime.DRAW_NO_FILL)
 
 
